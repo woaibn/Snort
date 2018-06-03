@@ -1,0 +1,12 @@
+编译:
+	gcc client.c -o client
+	gcc server.c -o server
+
+运行：
+	需要先执行服务端：./server
+	再执行客户端：./client
+
+注：
+classification.txt和description.txt这两个文件是攻击类型表。
+客户端程序会读取这两个文件。确保它们和客户端程序在同一目录下，
+否则读取失败，程序退出。

@@ -1,0 +1,38 @@
+Not Suspicious Traffic
+Unknown Traffic
+Potentially Bad Traffic
+Attempted Information Leak
+Information Leak
+Large Scale Information Leak
+Attempted Denial of Service
+Denial of Service
+Attempted User Privilege Gain
+Unsuccessful User Privilege Gain
+Successful User Privilege Gain
+Attempted Administrator Privilege Gain
+Successful Administrator Privilege Gain
+Decode of an RPC Query
+Executable code was detected
+A suspicious string was detected
+A suspicious filename was detected
+An attempted login using a suspicious username was detected
+A system call was detected
+A TCP connection was detected
+A Network Trojan was detected
+A client was using an unusual port
+Detection of a Network Scan
+Detection of a Denial of Service Attack
+Detection of a non-standard protocol or event
+Generic Protocol Command Decode
+access to a potentially vulnerable web application
+Web Application Attack
+Misc activity
+Misc Attack
+Generic ICMP event
+Inappropriate Content was Detected
+Potential Corporate Privacy Violation
+Attempt to login by a default username and password
+Senstive Data
+Known malicious file or file based exploit
+Known malware command and control traffic
+Known client side exploit attempt
